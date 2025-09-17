@@ -11,6 +11,12 @@ Hello! My name is **Yahya Ismayilov**.
 I have been working as a **3D Artist** and **Game Developer** for almost **5 years**.
 I specialize in creating stylized assets, immersive environments, and interactive experiences.
 My passion is combining art and technology to bring creative ideas to life.
+---
+### 💼 My Work Experience (via LinkedIn)
+
+<a href="https://www.linkedin.com/in/yehya-ismayilov/" target="_blank">
+  <img src="linkedin-experience.png" alt="Yahya Ismayilov - LinkedIn Experience"/>
+</a>
 
 ---
 

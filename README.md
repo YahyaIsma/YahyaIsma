@@ -27,6 +27,7 @@ My passion is combining art and technology to bring creative ideas to life.
 
 ---
 
+
 ### 💻 Programming & Scripting
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>

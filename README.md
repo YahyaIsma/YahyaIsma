@@ -15,17 +15,15 @@ My passion is combining art and technology to bring creative ideas to life.
 ---
 
 ### 🛠️ Tools & Software
-### 🛠️ Tools & Software
 <p align="left">
-  <img src="src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" alt="3ds Max" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/3dsmax/3dsmax-original.svg" alt="3ds Max" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" alt="Maya" width="50" height="50"/>
-  <img src="https://seeklogo.com/images/C/cinema-4d-logo-59C29E1611-seeklogo.com.svg" alt="Cinema4D" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cinema4d/cinema4d-plain.svg" alt="Cinema4D" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/substancepainter/substancepainter-original.svg" alt="Substance Painter" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/substancepainter/substancepainter-plain.svg" alt="Substance Painter" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zbrush/zbrush-original.svg" alt="ZBrush" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/unrealengine/white" alt="Unreal Engine" width="50" height="50"/>
 </p>
-
 ---
 
 ### 💻 Programming & Scripting

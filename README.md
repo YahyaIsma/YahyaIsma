@@ -20,7 +20,7 @@ My passion is combining art and technology to bring creative ideas to life.
   <img src="e36bdeb-d1a5-5c8a-3cec-efaaa52374f3_course-maya.png" alt="Maya" width="50" height="50"/>
   <img src="Blender_logo_no_text.svg.png" alt="Blender" width="50" height="50"/>
   <img src="C4D_Logo.png" alt="Cinema 4D" width="50" height="50"/>
-  <img src="image.png" alt="3ds Max" width="50" height="50"/>
+  <img src="Substancer.png" alt="Substance Painter" width="50" height="50"/>
   <img src="zbrush.png" alt="ZBrush" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/unrealengine/white" alt="Unreal Engine" width="50" height="50"/>
 </p>

@@ -46,14 +46,27 @@ My passion is combining art and technology to bring creative ideas to life.
 </p>
 
 ---
-
 ### 🌍 Find Me Online
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yehya-ismayilov/)
-- 🎮 [Steam Page](https://store.steampowered.com/curator/45575538)
-- 🎨 [ArtStation](https://www.artstation.com/darknight_studyo/store?tab=digital_product)
-- 🕹️ [Epic Games Fab](https://www.fab.com/tr/sellers/DarkNight%20studio)
-- 🖼️ [Sketchfab](https://sketchfab.com/ismayilovyehya.yi)
-- 🎮 [itch.io](https://darknightstudio.itch.io/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/yehya-ismayilov/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://store.steampowered.com/curator/45575538" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
+  <a href="https://www.artstation.com/darknight_studyo/store?tab=digital_product" target="_blank">
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"/>
+  </a>
+  <a href="https://www.fab.com/tr/sellers/DarkNight%20studio" target="_blank">
+    <img src="https://img.shields.io/badge/Epic_Games-000000?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games Fab"/>
+  </a>
+  <a href="https://sketchfab.com/ismayilovyehya.yi" target="_blank">
+    <img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" alt="Sketchfab"/>
+  </a>
+  <a href="https://darknightstudio.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"/>
+  </a>
+</p>
 
 ---
 

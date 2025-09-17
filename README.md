@@ -16,22 +16,31 @@ My passion is combining art and technology to bring creative ideas to life.
 
 ### 🛠️ Tools & Software  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/3dsmax/3dsmax-original.svg" alt="3ds Max" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="Maya" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cinema4d/cinema4d-original.svg" alt="Cinema4D" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/substancepainter/substancepainter-original.svg" alt="Substance Painter" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zbrush/zbrush-original.svg" alt="ZBrush" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/3dsmax/3dsmax-original.svg" width="50" height="50" alt="3ds Max"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="50" height="50" alt="Maya"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cinema4d/cinema4d-original.svg" width="50" height="50" alt="Cinema4D"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" height="50" alt="Blender"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/substancepainter/substancepainter-original.svg" width="50" height="50" alt="Substance Painter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zbrush/zbrush-original.svg" width="50" height="50" alt="ZBrush"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50" height="50" alt="Unreal Engine"/>
 </p>
 
 ---
 
 ### 💻 Programming & Scripting  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Unreal_Engine_Logo.svg" alt="Blueprint Scripting" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Unreal_Engine_Logo.svg" width="50" height="50" alt="Blueprint Scripting"/>
+</p>
+
+---
+
+### 📊 GitHub & LeetCode Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YahyaIsma&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://leetcard.jacoblin.cool/YahyaIsma?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" height="180"/>
 </p>
 
 ---

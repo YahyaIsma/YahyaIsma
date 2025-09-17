@@ -16,12 +16,12 @@ My passion is combining art and technology to bring creative ideas to life.
 
 ### 🛠️ Tools & Software
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/95043299/299066422-7a325cd2-5bff-45cc-9463-c8d73cd33f5e.png" alt="3ds Max" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/95043299/299066432-ad29c8a5-bdd3-491e-b0ef-afa44dacedd7.png" alt="Maya" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/95043299/299066440-322eec34-f981-421a-84f1-e78ca80b12d2.png" alt="Cinema 4D" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/95043299/299066453-3bc16225-00de-4944-a032-f58a0367232e.png" alt="Blender" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/95043299/299066465-84100d87-ce8d-441b-a7b2-0844e9aa189b.png" alt="Substance Painter" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/95043299/299066472-69237d30-fc2d-415b-8fd1-f04eca681f99.png" alt="ZBrush" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/95043299/299083111-df3d2ea5-0106-4e6b-839e-af76113f60b3.png" alt="3ds Max" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/95043299/299083115-e1883525-d3b6-4ecb-87a1-b9f99df179aa.png" alt="Maya" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/95043299/299083118-1956d5e0-f906-4736-81c5-36fd21d0b389.png" alt="Cinema 4D" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/95043299/299083121-4c2ec014-89ba-4dc7-b003-c282d3ca3c86.png" alt="Blender" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/95043299/299083125-b254033e-98ae-4f2b-9c44-badf4f159dc7.png" alt="Substance Painter" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/95043299/299083128-fe714ec6-a305-4d87-9af4-e3c3dff9d310.png" alt="ZBrush" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/unrealengine/white" alt="Unreal Engine" width="50" height="50"/>
 </p>
 

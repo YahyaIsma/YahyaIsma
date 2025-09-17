@@ -16,12 +16,12 @@ My passion is combining art and technology to bring creative ideas to life.
 
 ### 🛠️ Tools & Software
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/3dsmax/3dsmax-original.svg" alt="3ds Max" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/maya/maya-original.svg" alt="Maya" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/cinema4d/cinema4d-original.svg" alt="Cinema4D" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/substancepainter/substancepainter-original.svg" alt="Substance Painter" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/zbrush/zbrush-original.svg" alt="ZBrush" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/3dsmax/3dsmax-original.svg" alt="3ds Max" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" alt="Maya" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cinema4d/cinema4d-original.svg" alt="Cinema4D" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/substancepainter/substancepainter-plain.svg" alt="Substance Painter" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zbrush/zbrush-plain.svg" alt="ZBrush" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/unrealengine/white" alt="Unreal Engine" width="50" height="50"/>
 </p>
 
@@ -29,16 +29,17 @@ My passion is combining art and technology to bring creative ideas to life.
 
 ### 💻 Programming & Scripting
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/unrealengine/white" alt="Blueprint Scripting" width="50" height="50"/> </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/unrealengine/white" alt="Blueprint Scripting" width="50" height="50"/>
+</p>
 
 ---
 
 ### 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YahyaIsma&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=7200" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YahyaIsma&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" height="180"/>
   <img src="https://leetcard.jacoblin.cool/YahyaIsma?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" height="180"/>
 </p>
 

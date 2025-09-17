@@ -17,11 +17,11 @@ My passion is combining art and technology to bring creative ideas to life.
 ### 🛠️ Tools & Software
 <p align="left">
   <img src="3ds-max-logo-png_seeklogo-482396.png" alt="3ds Max" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/95043299/299083115-e1883525-d3b6-4ecb-87a1-b9f99df179aa.png" alt="Maya" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/95043299/299083118-1956d5e0-f906-4736-81c5-36fd21d0b389.png" alt="Cinema 4D" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/95043299/299083121-4c2ec014-89ba-4dc7-b003-c282d3ca3c86.png" alt="Blender" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/95043299/299083125-b254033e-98ae-4f2b-9c44-badf4f159dc7.png" alt="Substance Painter" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/95043299/299083128-fe714ec6-a305-4d87-9af4-e3c3dff9d310.png" alt="ZBrush" width="50" height="50"/>
+  <img src="Blender_logo_no_text.svg.png" alt="Blender" width="50" height="50"/>
+  <img src="C4D_Logo.png" alt="Cinema 4D" width="50" height="50"/>
+  <img src="image.png" alt="3ds Max" width="50" height="50"/>
+  <img src="e36bdeb-d1a5-5c8a-3cec-efaaa52374f3_course-maya.png" alt="Maya" width="50" height="50"/>
+  <img src="zbrush.png" alt="ZBrush" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/unrealengine/white" alt="Unreal Engine" width="50" height="50"/>
 </p>
 

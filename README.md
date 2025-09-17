@@ -16,7 +16,7 @@ My passion is combining art and technology to bring creative ideas to life.
 ### 💼 My Work Experience (via LinkedIn)
 
 <a href="https://www.linkedin.com/in/yehya-ismayilov/" target="_blank">
-  <img src="my-experience.png" alt="Yahya Ismayilov - LinkedIn Experience"/>
+  <img src="Screenshot%202025-09-17%20215110.png" alt="Yahya Ismayilov - LinkedIn Experience"/>
 </a>
 
 ---

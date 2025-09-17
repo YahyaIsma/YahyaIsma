@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yahya Ismayilov  
+# 👋 Hi, I'm Yahya Ismayilov
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;3D+Artist+%26+Game+Developer;Creating+worlds+through+art+%26+code!+🚀" alt="Typing SVG" />
@@ -6,61 +6,52 @@
 
 ---
 
-### 🌌 About Me  
-Hello! My name is **Yahya Ismayilov**.  
-I have been working as a **3D Artist** and **Game Developer** for almost **5 years**.  
-I specialize in creating stylized assets, immersive environments, and interactive experiences.  
-My passion is combining art and technology to bring creative ideas to life.  
+### 🌌 About Me
+Hello! My name is **Yahya Ismayilov**.
+I have been working as a **3D Artist** and **Game Developer** for almost **5 years**.
+I specialize in creating stylized assets, immersive environments, and interactive experiences.
+My passion is combining art and technology to bring creative ideas to life.
 
 ---
 
-### 🛠️ Tools & Software  
-> İkonların görünmesi için lütfen repo’nuzda **`assets/logos/`** klasörünü oluşturun ve aşağıdaki SVG dosyalarını ekleyin:  
-> `3dsmax.svg, cinema4d.svg, substance-painter.svg, zbrush.svg, blender.svg, unreal-white.svg`
-
+### 🛠️ Tools & Software
 <p align="left">
-  <img src="./assets/logos/3dsmax.svg" alt="3ds Max" width="48"/>
-  <img src="./assets/logos/cinema4d.svg" alt="Cinema4D" width="48"/>
-  <img src="./assets/logos/substance-painter.svg" alt="Substance Painter" width="48"/>
-  <img src="./assets/logos/zbrush.svg" alt="ZBrush" width="48"/>
-  <img src="./assets/logos/blender.svg" alt="Blender" width="48"/>
-  <img src="./assets/logos/unreal-white.svg" alt="Unreal Engine" width="48"/>
+  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/3dsmax/3dsmax-original.svg" alt="3ds Max" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/maya/maya-original.svg" alt="Maya" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/cinema4d/cinema4d-original.svg" alt="Cinema4D" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/substancepainter/substancepainter-original.svg" alt="Substance Painter" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/zbrush/zbrush-original.svg" alt="ZBrush" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/unrealengine/white" alt="Unreal Engine" width="50" height="50"/>
 </p>
 
 ---
 
-### 💻 Programming & Scripting  
+### 💻 Programming & Scripting
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48"/>
-  <img src="https://img.shields.io/badge/Blueprints-Visual%20Scripting-0D1117?style=flat-square&logo=unrealengine&logoColor=white" alt="Blueprint Scripting" height="48"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/unrealengine/white" alt="Blueprint Scripting" width="50" height="50"/> </p>
 
 ---
 
-### 📊 GitHub & LeetCode Stats  
+### 📊 GitHub & LeetCode Stats
+
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YahyaIsma&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/YahyaIsma?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" height="160"/>
-</p>
-
-<!-- Fallback Badge (LeetCode servisi hata verirse) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YahyaIsma&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=7200" alt="GitHub Stats" height="180"/>
+  <img src="https://leetcard.jacoblin.cool/YahyaIsma?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" height="180"/>
 </p>
 
 ---
 
-### 🌍 Find Me Online  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yehya-ismayilov/)  
-- 🎮 [Steam Page](https://store.steampowered.com/curator/45575538)  
-- 🎨 [ArtStation](https://www.artstation.com/darknight_studyo/store?tab=digital_product)  
-- 🕹️ [Epic Games Fab](https://www.fab.com/tr/sellers/DarkNight%20studio)  
-- 🖼️ [Sketchfab](https://sketchfab.com/ismayilovyehya.yi)  
-- 🎮 [itch.io](https://darknightstudio.itch.io/)  
+### 🌍 Find Me Online
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yehya-ismayilov/)
+- 🎮 [Steam Page](https://store.steampowered.com/curator/45575538)
+- 🎨 [ArtStation](https://www.artstation.com/darknight_studyo/store?tab=digital_product)
+- 🕹️ [Epic Games Fab](https://www.fab.com/tr/sellers/DarkNight%20studio)
+- 🖼️ [Sketchfab](https://sketchfab.com/ismayilovyehya.yi)
+- 🎮 [itch.io](https://darknightstudio.itch.io/)
 
 ---
 
-⭐ Always exploring new creative challenges in **game development** and **3D art**.  
+⭐ Always exploring new creative challenges in **game development** and **3D art**.

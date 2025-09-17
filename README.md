@@ -16,15 +16,15 @@ My passion is combining art and technology to bring creative ideas to life.
 
 ### 🛠️ Tools & Software
 
-| İkon                                                                                                     | Uygulama          | Seviye                                     | Tecrübe      |
-| :------------------------------------------------------------------------------------------------------- | :---------------- | :----------------------------------------- | :----------- |
-| <img src="3ds-max-logo-png_seeklogo-482396.png" alt="3ds Max" width="30" height="30"/>                     | **3ds Max** | <progress max="100" value="95"></progress> | `5000+ Saat` |
-| <img src="e36bdeb-d1a5-5c8a-3cec-efaaa52374f3_course-maya.png" alt="Maya" width="30" height="30"/>         | **Maya** | <progress max="100" value="85"></progress> | `4000+ Saat` |
-| <img src="Blender_logo_no_text.svg.png" alt="Blender" width="30" height="30"/>                             | **Blender** | <progress max="100" value="90"></progress> | `4500+ Saat` |
-| <img src="C4D_Logo.png" alt="Cinema 4D" width="30" height="30"/>                                           | **Cinema 4D** | <progress max="100" value="70"></progress> | `1500+ Saat` |
-| <img src="zbrush.png" alt="ZBrush" width="30" height="30"/>                                                | **ZBrush** | <progress max="100" value="80"></progress> | `2500+ Saat` |
-| <img src="Substancer.png" alt="Substance Painter" width="30" height="30"/>                                 | **Substance P.** | <progress max="100" value="90"></progress> | `3000+ Saat` |
-| <img src="https://cdn.simpleicons.org/unrealengine/white" alt="Unreal Engine" width="30" height="30"/>     | **Unreal Engine** | <progress max="100" value="85"></progress> | `4000+ Saat` |
+| İkon                                                                                                     | Uygulama          | Seviye       | Tecrübe      |
+| :------------------------------------------------------------------------------------------------------- | :---------------- | :----------- | :----------- |
+| <img src="3ds-max-logo-png_seeklogo-482396.png" alt="3ds Max" width="30" height="30"/>                     | **3ds Max** | `Beginner`   | `5000+ Saat` |
+| <img src="e36bdeb-d1a5-5c8a-3cec-efaaa52374f3_course-maya.png" alt="Maya" width="30" height="30"/>         | **Maya** | `Beginner`   | `4000+ Saat` |
+| <img src="Blender_logo_no_text.svg.png" alt="Blender" width="30" height="30"/>                             | **Blender** | `Middle`     | `4500+ Saat` |
+| <img src="C4D_Logo.png" alt="Cinema 4D" width="30" height="30"/>                                           | **Cinema 4D** | `Beginner`   | `1500+ Saat` |
+| <img src="zbrush.png" alt="ZBrush" width="30" height="30"/>                                                | **ZBrush** | `Beginner`   | `2500+ Saat` |
+| <img src="Substancer.png" alt="Substance Painter" width="30" height="30"/>                                 | **Substance P.** | `Middle`     | `3000+ Saat` |
+| <img src="https://cdn.simpleicons.org/unrealengine/white" alt="Unreal Engine" width="30" height="30"/>     | **Unreal Engine** | `Middle`     | `4000+ Saat` |
 
 ---
 

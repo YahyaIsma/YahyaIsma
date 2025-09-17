@@ -16,7 +16,7 @@ My passion is combining art and technology to bring creative ideas to life.
 
 ### 🛠️ Tools & Software
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/95043299/299083111-df3d2ea5-0106-4e6b-839e-af76113f60b3.png" alt="3ds Max" width="50" height="50"/>
+  <img src="3ds-max-logo-png_seeklogo-482396.png" alt="3ds Max" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/95043299/299083115-e1883525-d3b6-4ecb-87a1-b9f99df179aa.png" alt="Maya" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/95043299/299083118-1956d5e0-f906-4736-81c5-36fd21d0b389.png" alt="Cinema 4D" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/95043299/299083121-4c2ec014-89ba-4dc7-b003-c282d3ca3c86.png" alt="Blender" width="50" height="50"/>

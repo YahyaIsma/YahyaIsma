@@ -39,7 +39,7 @@ My passion is combining art and technology to bring creative ideas to life.
 ### 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YahyaIsma&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-chi-kohl-69.vercel.app/api?username=YahyaIsma&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
   <img src="https://leetcard.jacoblin.cool/YahyaIsma?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" height="180"/>
 </p>
 

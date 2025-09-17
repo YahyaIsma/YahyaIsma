@@ -16,7 +16,7 @@ My passion is combining art and technology to bring creative ideas to life.
 
 ### 🛠️ Tools & Software
 <p align="left">
-  <img src="https://seeklogo.com/images/T/3ds-max-logo-F5132A69B1-seeklogo.com.svg" alt="3ds Max" width="50" height="50"/>
+  <img src="https://share.google/images/FAXOBNg2OVrG0TVgm" alt="3ds Max" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" alt="Maya" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cinema4d/cinema4d-original.svg" alt="Cinema4D" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>

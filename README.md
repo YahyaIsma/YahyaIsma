@@ -16,12 +16,12 @@ My passion is combining art and technology to bring creative ideas to life.
 
 ### 🛠️ Tools & Software
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/3dsmax/3dsmax-original.svg" alt="3ds Max" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/3dsmax/FFFFFF" alt="3ds Max" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" alt="Maya" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cinema4d/cinema4d-original.svg" alt="Cinema4D" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/cinema4d/FFFFFF" alt="Cinema4D" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/substancepainter/substancepainter-plain.svg" alt="Substance Painter" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zbrush/zbrush-plain.svg" alt="ZBrush" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/adobesubstance3dpainter/FFFFFF" alt="Substance Painter" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/zbrush/FFFFFF" alt="ZBrush" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/unrealengine/white" alt="Unreal Engine" width="50" height="50"/>
 </p>
 

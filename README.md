@@ -58,7 +58,7 @@ My passion is combining art and technology to bring creative ideas to life.
 <table>
   <tr>
     <td width="80" valign="top">
-      <img src="assets/Legions Studio.jpeg" alt="Legions Game Studio Logo" width="64">
+      <img src="Legions Studio.jpeg" alt="Legions Game Studio Logo" width="64">
     </td>
     <td valign="top">
       <strong>3D Character Animation Specialist</strong><br>
@@ -69,7 +69,7 @@ My passion is combining art and technology to bring creative ideas to life.
   </tr>
   <tr>
     <td width="80" valign="top">
-      <img src="assets/Unreal engine sumgait.png" alt="Unreal Engine Logo" width="64">
+      <img src="Unreal engine sumngait.png" alt="Unreal Engine Logo" width="64">
     </td>
     <td valign="top">
       <strong>Chapter Lead</strong><br>
@@ -80,7 +80,7 @@ My passion is combining art and technology to bring creative ideas to life.
   </tr>
     <tr>
     <td width="80" valign="top">
-      <img src="assets/Untitle studio.png" alt="Untitle GameStudio Logo" width="64">
+      <img src="Untitle studio.png" alt="Untitle GameStudio Logo" width="64">
     </td>
     <td valign="top">
       <strong>3D Character Animation Specialist</strong><br>
@@ -91,7 +91,7 @@ My passion is combining art and technology to bring creative ideas to life.
   </tr>
   <tr>
     <td width="80" valign="top">
-      <img src="assets/Darknight.png" alt="DarkNight Studio Logo" width="64">
+      <img src="Darknight.png" alt="DarkNight Studio Logo" width="64">
     </td>
     <td valign="top">
       <strong>Founder & CEO</strong><br>
@@ -104,7 +104,7 @@ My passion is combining art and technology to bring creative ideas to life.
   </tr>
   <tr>
     <td width="80" valign="top">
-      <img src="assets/Artstation.png" alt="ArtStation Logo" width="64">
+      <img src="Artstation.png" alt="ArtStation Logo" width="64">
     </td>
     <td valign="top">
       <strong>3D Model Seller</strong><br>
@@ -117,7 +117,7 @@ My passion is combining art and technology to bring creative ideas to life.
   </tr>
   <tr>
     <td width="80" valign="top">
-      <img src="assets/Sketchfab.png" alt="Sketchfab Logo" width="64">
+      <img src="Sketchfab.png" alt="Sketchfab Logo" width="64">
     </td>
     <td valign="top">
       <strong>3D Model Seller</strong><br>
@@ -130,7 +130,7 @@ My passion is combining art and technology to bring creative ideas to life.
   </tr>
     <tr>
     <td width="80" valign="top">
-      <img src="assets/Fab.png" alt="Fab Logo" width="64">
+      <img src="Fab.png" alt="Fab Logo" width="64">
     </td>
     <td valign="top">
       <strong>3D Model Seller</strong><br>
@@ -140,7 +140,7 @@ My passion is combining art and technology to bring creative ideas to life.
   </tr>
   <tr>
     <td width="80" valign="top">
-      <img src="assets/Youtube.png" alt="YouTube Logo" width="64">
+      <img src="Youtube.png" alt="YouTube Logo" width="64">
     </td>
     <td valign="top">
       <strong>Content Creator</strong><br>
@@ -153,7 +153,7 @@ My passion is combining art and technology to bring creative ideas to life.
   </tr>
   <tr>
     <td width="80" valign="top">
-      <img src="assets/freelancer.png" alt="Freelancer.com Logo" width="64">
+      <img src="Frelancer.png" alt="Freelancer.com Logo" width="64">
     </td>
     <td valign="top">
       <strong>3D Graphic Designer</strong><br>
@@ -166,7 +166,7 @@ My passion is combining art and technology to bring creative ideas to life.
   </tr>
     <tr>
     <td width="80" valign="top">
-      <img src="assets/Stromsuge.png" alt="Stromsuge Studio Logo" width="64">
+      <img src="Stromgue.png" alt="Stromsuge Studio Logo" width="64">
     </td>
     <td valign="top">
       <strong>Camera Assistant & 3D Designer</strong><br>

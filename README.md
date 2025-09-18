@@ -45,23 +45,23 @@ My passion is combining art and technology to bring creative ideas to life.
 
 ---
 ### 🎮 My Games
-Geliştirdiğim bazı oyunlar. Göz atmak için üzerine tıklayabilirsiniz!
+Here are some of the games I've developed. Click on them to check them out!
 
 <table>
 <tr>
 <td width="160" valign="top">
-<a href="https://www.google.com/search?q=https://store.steampowered.com/app/3026020/Despicable_Boss/" target="_blank">
+<a href="https://store.steampowered.com/app/3626020/Despicable_Boss/" target="_blank">
 <img src="Despicableboss.png" alt="Despicable Boss" width="150">
 </a>
 </td>
 <td valign="top">
-<a href="https://www.google.com/search?q=https://store.steampowered.com/app/3026020/Despicable_Boss/" target="_blank">
+<a href="https://store.steampowered.com/app/3626020/Despicable_Boss/" target="_blank">
 <strong>Despicable Boss</strong>
 </a>
 <br/>
 <em>Platform: Steam</em>
 <br/><br/>
-Patronundan intikam almak isteyen bir çalışanı canlandırdığınız, heyecan verici bir roguelike nişancı oyunu.
+An exciting roguelike shooter where you play as an employee seeking revenge on your boss.
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ Patronundan intikam almak isteyen bir çalışanı canlandırdığınız, heyeca
 <br/>
 <em>Platform: itch.io</em>
 <br/><br/>
-Bir çiçeği dağın zirvesine taşımaya çalışan bir kişinin hikayesini anlatan kısa ve duygusal bir macera oyunu.
+A short and emotional adventure game about a person trying to carry a flower to the top of a mountain.
 </td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ Bir çiçeği dağın zirvesine taşımaya çalışan bir kişinin hikayesini an
 <br/>
 <em>Platform: itch.io</em>
 <br/><br/>
-Sizi terk edilmiş bir yetimhanenin ürkütücü sınırlarına sürükleyen tüyler ürpertici bir korku oyunu.
+A chilling horror game that drags you into the creepy confines of an abandoned orphanage.
 </td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ Sizi terk edilmiş bir yetimhanenin ürkütücü sınırlarına sürükleyen tü
 <br/>
 <em>Platform: itch.io</em>
 <br/><br/>
-Unutulmuş bir bodrumun karanlık sırlarını ortaya çıkarmanız gereken bir korku-bulmaca oyunu.
+A horror-puzzle game where you must uncover the dark secrets of a forgotten basement.
 </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ Unutulmuş bir bodrumun karanlık sırlarını ortaya çıkarmanız gereken bir 
 <br/>
 <em>Platform: itch.io</em>
 <br/><br/>
-Bilim kurgu dünyasında geçen, tempolu bir birinci şahıs nişancı (FPS) oyunu.
+A fast-paced first-person shooter (FPS) game set in a sci-fi world.
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ Bilim kurgu dünyasında geçen, tempolu bir birinci şahıs nişancı (FPS) oyu
 <br/>
 <em>Platform: itch.io</em>
 <br/><br/>
-Unreal Engine 5 ile yapılmış bir 2D platform ve aksiyon oyunu.
+A 2D platformer and action game made with Unreal Engine 5.
 </td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ Unreal Engine 5 ile yapılmış bir 2D platform ve aksiyon oyunu.
 <br/>
 <em>Platform: itch.io</em>
 <br/><br/>
-Geliştirilmekte olan bir korku oyununun kısa bir demosu.
+A short demo of a horror game currently in development.
 </td>
 </tr>
 </table>

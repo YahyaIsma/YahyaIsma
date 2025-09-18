@@ -44,18 +44,18 @@ My passion is combining art and technology to bring creative ideas to life.
 </p>
 
 ---
-🎮 My Games
+### 🎮 My Games
 Geliştirdiğim bazı oyunlar. Göz atmak için üzerine tıklayabilirsiniz!
 
 <table>
 <tr>
 <td width="160" valign="top">
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://store.steampowered.com/app/3026020/Despicable_Boss/" target="_blank">
-<img src="https://www.google.com/search?q=https://cdn.akamai.steamstatic.com/steam/apps/3026020/header.jpg" alt="Despicable Boss" width="150">
+<a href="https://www.google.com/search?q=https://store.steampowered.com/app/3026020/Despicable_Boss/" target="_blank">
+<img src="Despicableboss.png" alt="Despicable Boss" width="150">
 </a>
 </td>
 <td valign="top">
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://store.steampowered.com/app/3026020/Despicable_Boss/" target="_blank">
+<a href="https://www.google.com/search?q=https://store.steampowered.com/app/3026020/Despicable_Boss/" target="_blank">
 <strong>Despicable Boss</strong>
 </a>
 <br/>
@@ -67,7 +67,7 @@ Patronundan intikam almak isteyen bir çalışanı canlandırdığınız, heyeca
 <tr>
 <td width="160" valign="top">
 <a href="https://www.google.com/search?q=https://darknightstudio.itch.io/wings-of-hope" target="_blank">
-<img src="https://www.google.com/search?q=https://img.itch.zone/aW1nLzE2MDgwMDU5LmpwZw%3D%3D/315x250%2523c/GjUa%252BO.jpg" alt="Wings of Hope" width="150">
+<img src="Wingsofhope.png" alt="Wings of Hope" width="150">
 </a>
 </td>
 <td valign="top">
@@ -83,7 +83,7 @@ Bir çiçeği dağın zirvesine taşımaya çalışan bir kişinin hikayesini an
 <tr>
 <td width="160" valign="top">
 <a href="https://darknightstudio.itch.io/haunted-step" target="_blank">
-<img src="https://www.google.com/search?q=https://img.itch.zone/aW1nLzE1MjQxNDYzLnBuZw%3D%3D/315x250%2523c/wB7n5y.png" alt="Haunted Step" width="150">
+<img src="Hauntedstep.png" alt="Haunted Step" width="150">
 </a>
 </td>
 <td valign="top">
@@ -99,7 +99,7 @@ Sizi terk edilmiş bir yetimhanenin ürkütücü sınırlarına sürükleyen tü
 <tr>
 <td width="160" valign="top">
 <a href="https://darknightstudio.itch.io/the-silent-basement" target="_blank">
-<img src="https://www.google.com/search?q=https://img.itch.zone/aW1nLzE0ODE3MjU3LnBuZw%3D%3D/315x250%2523c/4z5y18.png" alt="The Silent Basement" width="150">
+<img src="Thesilentbasement.png" alt="The Silent Basement" width="150">
 </a>
 </td>
 <td valign="top">
@@ -115,7 +115,7 @@ Unutulmuş bir bodrumun karanlık sırlarını ortaya çıkarmanız gereken bir 
 <tr>
 <td width="160" valign="top">
 <a href="https://darknightstudio.itch.io/aurora-of-helios" target="_blank">
-<img src="https://www.google.com/search?q=https://img.itch.zone/aW1nLzE0MDczMjkyLnBuZw%3D%3D/315x250%2523c/uT9p25.png" alt="Aurora of Helios" width="150">
+<img src="auroraofhelios.png" alt="Aurora of Helios" width="150">
 </a>
 </td>
 <td valign="top">
@@ -131,7 +131,7 @@ Bilim kurgu dünyasında geçen, tempolu bir birinci şahıs nişancı (FPS) oyu
 <tr>
 <td width="160" valign="top">
 <a href="https://darknightstudio.itch.io/the-blood-of-legend" target="_blank">
-<img src="https://www.google.com/search?q=https://img.itch.zone/aW1nLzEzNTU1MTYxLnBuZw%3D%3D/315x250%2523c/zF2l6D.png" alt="The Blood of Legend" width="150">
+<img src="thboldoflegend.png" alt="The Blood of Legend" width="150">
 </a>
 </td>
 <td valign="top">
@@ -147,7 +147,7 @@ Unreal Engine 5 ile yapılmış bir 2D platform ve aksiyon oyunu.
 <tr>
 <td width="160" valign="top">
 <a href="https://darknightstudio.itch.io/well-demo" target="_blank">
-<img src="https://www.google.com/search?q=https://img.itch.zone/aW1nLzEyOTAyODk2LnBuZw%3D%3D/315x250%2523c/F3BvW8.png" alt="Well Demo" width="150">
+<img src="Whelldemo.png" alt="Well Demo" width="150">
 </a>
 </td>
 <td valign="top">

@@ -44,6 +44,124 @@ My passion is combining art and technology to bring creative ideas to life.
 </p>
 
 ---
+🎮 My Games
+Geliştirdiğim bazı oyunlar. Göz atmak için üzerine tıklayabilirsiniz!
+
+<table>
+<tr>
+<td width="160" valign="top">
+<a href="https://www.google.com/url?sa=E&source=gmail&q=https://store.steampowered.com/app/3026020/Despicable_Boss/" target="_blank">
+<img src="https://www.google.com/search?q=https://cdn.akamai.steamstatic.com/steam/apps/3026020/header.jpg" alt="Despicable Boss" width="150">
+</a>
+</td>
+<td valign="top">
+<a href="https://www.google.com/url?sa=E&source=gmail&q=https://store.steampowered.com/app/3026020/Despicable_Boss/" target="_blank">
+<strong>Despicable Boss</strong>
+</a>
+<br/>
+<em>Platform: Steam</em>
+<br/><br/>
+Patronundan intikam almak isteyen bir çalışanı canlandırdığınız, heyecan verici bir roguelike nişancı oyunu.
+</td>
+</tr>
+<tr>
+<td width="160" valign="top">
+<a href="https://www.google.com/search?q=https://darknightstudio.itch.io/wings-of-hope" target="_blank">
+<img src="https://www.google.com/search?q=https://img.itch.zone/aW1nLzE2MDgwMDU5LmpwZw%3D%3D/315x250%2523c/GjUa%252BO.jpg" alt="Wings of Hope" width="150">
+</a>
+</td>
+<td valign="top">
+<a href="https://www.google.com/search?q=https://darknightstudio.itch.io/wings-of-hope" target="_blank">
+<strong>Wings of Hope</strong>
+</a>
+<br/>
+<em>Platform: itch.io</em>
+<br/><br/>
+Bir çiçeği dağın zirvesine taşımaya çalışan bir kişinin hikayesini anlatan kısa ve duygusal bir macera oyunu.
+</td>
+</tr>
+<tr>
+<td width="160" valign="top">
+<a href="https://darknightstudio.itch.io/haunted-step" target="_blank">
+<img src="https://www.google.com/search?q=https://img.itch.zone/aW1nLzE1MjQxNDYzLnBuZw%3D%3D/315x250%2523c/wB7n5y.png" alt="Haunted Step" width="150">
+</a>
+</td>
+<td valign="top">
+<a href="https://darknightstudio.itch.io/haunted-step" target="_blank">
+<strong>Haunted Step</strong>
+</a>
+<br/>
+<em>Platform: itch.io</em>
+<br/><br/>
+Sizi terk edilmiş bir yetimhanenin ürkütücü sınırlarına sürükleyen tüyler ürpertici bir korku oyunu.
+</td>
+</tr>
+<tr>
+<td width="160" valign="top">
+<a href="https://darknightstudio.itch.io/the-silent-basement" target="_blank">
+<img src="https://www.google.com/search?q=https://img.itch.zone/aW1nLzE0ODE3MjU3LnBuZw%3D%3D/315x250%2523c/4z5y18.png" alt="The Silent Basement" width="150">
+</a>
+</td>
+<td valign="top">
+<a href="https://darknightstudio.itch.io/the-silent-basement" target="_blank">
+<strong>The Silent Basement</strong>
+</a>
+<br/>
+<em>Platform: itch.io</em>
+<br/><br/>
+Unutulmuş bir bodrumun karanlık sırlarını ortaya çıkarmanız gereken bir korku-bulmaca oyunu.
+</td>
+</tr>
+<tr>
+<td width="160" valign="top">
+<a href="https://darknightstudio.itch.io/aurora-of-helios" target="_blank">
+<img src="https://www.google.com/search?q=https://img.itch.zone/aW1nLzE0MDczMjkyLnBuZw%3D%3D/315x250%2523c/uT9p25.png" alt="Aurora of Helios" width="150">
+</a>
+</td>
+<td valign="top">
+<a href="https://darknightstudio.itch.io/aurora-of-helios" target="_blank">
+<strong>Aurora of Helios</strong>
+</a>
+<br/>
+<em>Platform: itch.io</em>
+<br/><br/>
+Bilim kurgu dünyasında geçen, tempolu bir birinci şahıs nişancı (FPS) oyunu.
+</td>
+</tr>
+<tr>
+<td width="160" valign="top">
+<a href="https://darknightstudio.itch.io/the-blood-of-legend" target="_blank">
+<img src="https://www.google.com/search?q=https://img.itch.zone/aW1nLzEzNTU1MTYxLnBuZw%3D%3D/315x250%2523c/zF2l6D.png" alt="The Blood of Legend" width="150">
+</a>
+</td>
+<td valign="top">
+<a href="https://darknightstudio.itch.io/the-blood-of-legend" target="_blank">
+<strong>The Blood of Legend</strong>
+</a>
+<br/>
+<em>Platform: itch.io</em>
+<br/><br/>
+Unreal Engine 5 ile yapılmış bir 2D platform ve aksiyon oyunu.
+</td>
+</tr>
+<tr>
+<td width="160" valign="top">
+<a href="https://darknightstudio.itch.io/well-demo" target="_blank">
+<img src="https://www.google.com/search?q=https://img.itch.zone/aW1nLzEyOTAyODk2LnBuZw%3D%3D/315x250%2523c/F3BvW8.png" alt="Well Demo" width="150">
+</a>
+</td>
+<td valign="top">
+<a href="https://darknightstudio.itch.io/well-demo" target="_blank">
+<strong>Well (Demo)</strong>
+</a>
+<br/>
+<em>Platform: itch.io</em>
+<br/><br/>
+Geliştirilmekte olan bir korku oyununun kısa bir demosu.
+</td>
+</tr>
+</table>
+---
 
 ### 📊 GitHub & LeetCode Stats
 

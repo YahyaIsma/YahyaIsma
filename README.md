@@ -44,7 +44,7 @@ My passion is combining art and technology to bring creative ideas to life.
 </p>
 
 ---
-### 🎮 My Games
+🎮 My Games
 Here are some of the games I've developed. Click on them to check them out!
 
 <table>
@@ -82,12 +82,12 @@ A short and emotional adventure game about a person trying to carry a flower to 
 </tr>
 <tr>
 <td width="160" valign="top">
-<a href="https://darknightstudio.itch.io/haunted-step" target="_blank">
+<a href="https://www.google.com/search?q=https://darknightstudio.itch.io/haunted-step" target="_blank">
 <img src="Hauntedstep.png" alt="Haunted Step" width="150">
 </a>
 </td>
 <td valign="top">
-<a href="https://darknightstudio.itch.io/haunted-step" target="_blank">
+<a href="https://www.google.com/search?q=https://darknightstudio.itch.io/haunted-step" target="_blank">
 <strong>Haunted Step</strong>
 </a>
 <br/>
@@ -99,7 +99,7 @@ A chilling horror game that drags you into the creepy confines of an abandoned o
 <tr>
 <td width="160" valign="top">
 <a href="https://darknightstudio.itch.io/the-silent-basement" target="_blank">
-<img src="Thesilentbasement.png" alt="The Silent Basement" width="150">
+<img src="Thesilentbasment.png" alt="The Silent Basement" width="150">
 </a>
 </td>
 <td valign="top">
@@ -114,12 +114,12 @@ A horror-puzzle game where you must uncover the dark secrets of a forgotten base
 </tr>
 <tr>
 <td width="160" valign="top">
-<a href="https://darknightstudio.itch.io/aurora-of-helios" target="_blank">
+<a href="https://www.google.com/search?q=https://darknightstudio.itch.io/aurora-of-helios" target="_blank">
 <img src="auroraofhelios.png" alt="Aurora of Helios" width="150">
 </a>
 </td>
 <td valign="top">
-<a href="https://darknightstudio.itch.io/aurora-of-helios" target="_blank">
+<a href="https://www.google.com/search?q=https://darknightstudio.itch.io/aurora-of-helios" target="_blank">
 <strong>Aurora of Helios</strong>
 </a>
 <br/>

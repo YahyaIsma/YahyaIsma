@@ -53,6 +53,131 @@ My passion is combining art and technology to bring creative ideas to life.
 </p>
 
 ---
+## 💼 Deneyim (Experience)
+
+<table>
+  <tr>
+    <td width="80" valign="top">
+      <img src="https://media.licdn.com/dms/image/D4D0BAQF_vW8JmYf_VA/company-logo_200_200/0/1712686888469/legions_studio_logo?e=1731110400&v=beta&t=90Ew7t5-rW2J897xL6G-U_0Qy0e5gP0-3e3Qh5J0t6s" alt="Legions Game Studio Logo" width="64">
+    </td>
+    <td valign="top">
+      <strong>3D Character Animation Specialist</strong><br>
+      Legions Game Studio<br>
+      <em>Nisan 2025 - Şu Anda</em><br>
+      <em>Baku, Azerbaycan</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" valign="top">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Unreal_Engine_Logo.svg/1200px-Unreal_Engine_Logo.svg.png" alt="Unreal Engine Logo" width="64">
+    </td>
+    <td valign="top">
+      <strong>Chapter Lead</strong><br>
+      Unreal Engine Sumgait Chapter<br>
+      <em>Ağustos 2025 - Şu Anda</em><br>
+      <em>Sumgayit, Azerbaycan</em>
+    </td>
+  </tr>
+    <tr>
+    <td width="80" valign="top">
+      <img src="https://media.licdn.com/dms/image/D4D0BAQG1mEaF0a33qA/company-logo_200_200/0/1721037672583/untitle_gamestudio_logo?e=1731110400&v=beta&t=7J6FfE_xQ0RzL3mR3zY5zY_gZ4jX8t9Y9X0aL4pQ4oM" alt="Untitle GameStudio Logo" width="64">
+    </td>
+    <td valign="top">
+      <strong>3D Character Animation Specialist</strong><br>
+      Untitle GameStudio<br>
+      <em>Ağustos 2025 - Şu Anda</em><br>
+      <em>Baku, Azerbaycan</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" valign="top">
+      <img src="https://user-images.githubusercontent.com/2327293/204229337-1e507119-4822-4467-a4c3-631d8cc55173.png" alt="DarkNight Studio Logo" width="64">
+    </td>
+    <td valign="top">
+      <strong>Founder & CEO</strong><br>
+      DarkNight Studio<br>
+      <em>Haziran 2021 - Şu Anda</em><br>
+      <em>Azerbaycan</em>
+      <br><br>
+      Yenilikçi ve sürükleyici oyun deneyimleri sunmaya adanmış bağımsız bir oyun geliştirme stüdyosu. Teknik uzmanlığı yaratıcı vizyonla birleştirerek ilgi çekici ve dinamik dünyalar yaratıyoruz.
+    </td>
+  </tr>
+  <tr>
+    <td width="80" valign="top">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Artstation-logo-horizontal-white.svg/2560px-Artstation-logo-horizontal-white.svg.png" alt="ArtStation Logo" width="64">
+    </td>
+    <td valign="top">
+      <strong>3D Model Seller</strong><br>
+      ArtStation<br>
+      <em>Ağustos 2023 - Şu Anda</em><br>
+      <em>Azerbaycan</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" valign="top">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sketchfab_logo.svg/2560px-Sketchfab_logo.svg.png" alt="Sketchfab Logo" width="64">
+    </td>
+    <td valign="top">
+      <strong>3D Model Seller</strong><br>
+      Sketchfab<br>
+      <em>Ekim 2023 - Şu Anda</em><br>
+      <em>Azerbaycan</em>
+      <br><br>
+      Oyun geliştiricileri ve dijital içerik oluşturucuları için yüksek kaliteli 3D varlıklar sunuyorum.
+    </td>
+  </tr>
+    <tr>
+    <td width="80" valign="top">
+      <img src="https://cdn-icons-png.flaticon.com/512/187/187219.png" alt="Fab Logo" width="64">
+    </td>
+    <td valign="top">
+      <strong>3D Model Seller</strong><br>
+      Fab<br>
+      <em>Nisan 2024 - Şu Anda</em><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" valign="top">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube Logo" width="64">
+    </td>
+    <td valign="top">
+      <strong>Content Creator</strong><br>
+      YouTube<br>
+      <em>2022 - Şu Anda</em><br>
+      <em>Azerbaycan</em>
+      <br><br>
+      YouTube kanalımda çeşitli büyüleyici 3D animasyon projeleri paylaşıyorum. Grafik tasarım ve teknolojinin kesişim noktasında çalışarak her gün yenilikçi işler üretmeye devam ediyorum.
+    </td>
+  </tr>
+  <tr>
+    <td width="80" valign="top">
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/freelancer_logo_icon_170849.png" alt="Freelancer.com Logo" width="64">
+    </td>
+    <td valign="top">
+      <strong>3D Graphic Designer</strong><br>
+      Freelancer.com<br>
+      <em>Haziran 2024 - Ekim 2024</em><br>
+      <em>Azerbaycan</em>
+      <br><br>
+      Ürün, karakter ve sahne modelleme ile dinamik ve gerçekçi animasyonlar oluşturma; yüksek kaliteli render'lar ve görsel efektlerle projeleri hayata geçirme konularında hizmet verdim.
+    </td>
+  </tr>
+    <tr>
+    <td width="80" valign="top">
+      <img src="https://cdn-icons-png.flaticon.com/512/2329/2329087.png" alt="Stromsuge Studio Logo" width="64">
+    </td>
+    <td valign="top">
+      <strong>Camera Assistant & 3D Designer</strong><br>
+      Stromsuge Studio<br>
+      <em>Ocak 2024 - Nisan 2024</em><br>
+      <em>Azerbaycan</em>
+      <br><br>
+      Stromsuge Studio ile bir korku oyunu projesinde kamera sanatçısı ve 3D tasarımcı olarak görev aldım.
+    </td>
+  </tr>
+</table>
+---
+
 ### 🌍 Find Me Online
 <p align="left">
   <a href="https://www.linkedin.com/in/yehya-ismayilov/" target="_blank">

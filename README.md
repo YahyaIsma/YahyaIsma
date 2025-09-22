@@ -115,7 +115,7 @@ A horror-puzzle game where you must uncover the dark secrets of a forgotten base
 <tr>
 <td width="160" valign="top">
 <a href="https://www.google.com/search?q=https://darknightstudio.itch.io/aurora-of-helios" target="_blank">
-<img src="auroraofhelios.png" alt="Aurora of Helios" width="150">
+<img src="auroraofhelious.png" alt="Wings of Hope" width="150">
 </a>
 </td>
 <td valign="top">
@@ -131,7 +131,7 @@ A fast-paced first-person shooter (FPS) game set in a sci-fi world.
 <tr>
 <td width="160" valign="top">
 <a href="https://darknightstudio.itch.io/the-blood-of-legend" target="_blank">
-<img src="thboldoflegend.png" alt="The Blood of Legend" width="150">
+<img src="thrboldoflegend.png" alt="Wings of Hope" width="150">
 </a>
 </td>
 <td valign="top">

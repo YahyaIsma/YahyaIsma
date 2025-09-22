@@ -83,7 +83,7 @@ A short and emotional adventure game about a person trying to carry a flower to 
 <tr>
 <td width="160" valign="top">
 <a href="https://www.google.com/search?q=https://darknightstudio.itch.io/haunted-step" target="_blank">
-<img src="Hauntedstep.png" alt="Haunted Step" width="150">
+<img src="Hautedstep.png" alt="Wings of Hope" width="150">
 </a>
 </td>
 <td valign="top">
